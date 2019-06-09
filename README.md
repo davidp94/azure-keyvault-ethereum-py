@@ -1,5 +1,7 @@
 # azure_keyvault_ethereum_py
 
+![Build](https://travis-ci.org/davidp94/azure-keyvault-ethereum-py.svg?branch=master)
+
 Let you sign your ethereum transaction using Azure Keyvault
 
 
