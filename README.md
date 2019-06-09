@@ -6,7 +6,7 @@ Let you sign your ethereum transaction using Azure Keyvault
 
 
 ```bash
-pip install azure_keyvault_ethereum_py
+pip install azure-keyvault-ethereum-py
 ```
 
 ## Example
