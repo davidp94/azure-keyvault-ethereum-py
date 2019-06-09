@@ -11,6 +11,6 @@ setup(name='azure_keyvault_ethereum_py',
           "eth-keys==0.2.2",
           "secp256k1==0.13.2",
           "azure-keyvault==1.1.0",
-          "eth-account=0.4.0"
+          "eth-account==0.4.0"
       ],
       zip_safe=False)
