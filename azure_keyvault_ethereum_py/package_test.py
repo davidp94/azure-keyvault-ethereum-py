@@ -1,4 +1,4 @@
-from azure_keyvault_ethereum_py.package import make_canonical, convert_json_key_to_public_key_bytes, \
+from .package import make_canonical, convert_json_key_to_public_key_bytes, \
     convert_azure_secp256k1_signature_to_vrs, int_to_bytes
 
 
