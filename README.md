@@ -59,3 +59,16 @@ tx_hash = w3.eth.sendRawTransaction(signed_transaction.hex())
 print("tx hash", tx_hash.hex())
 
 ```
+
+
+### Rebuild and Distribute
+
+```bash
+python3 setup.py sdist bdist_wheel
+```
+
+Upload to PyPI
+
+```bash
+twine upload dist/*
+```
