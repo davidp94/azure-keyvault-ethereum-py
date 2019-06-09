@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='azure_keyvault_ethereum_py',
-      version='0.1',
+      version='0.2',
       description='Ethereum Keyvault',
       url='https://github.com/davidp94/azure-keyvault-ethereum-py',
       author='David Phan',
